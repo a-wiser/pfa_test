@@ -1,2 +1,1 @@
-# pfa_test
-this is for class!
+This is the readme file for the pfa github workshop.
